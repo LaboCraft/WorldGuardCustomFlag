@@ -6,7 +6,7 @@ WGCustomFlags plugin that denies interaction with some blocks
 * `anvil-damage` cancels damage to anvils
 * `open-door` cancels the opening of doors, traps and gates
 
-This project was inspired by the work on [ArmorStand-Limiter](https://github.com/xSavior-of-God/ArmorStand-Limiter) who allows you to limit armor stands.
+This project was inspired by the work on [WGCustomFlags](https://github.com/mewin-archived/WGCustomFlags).
 
 # Support
 
