@@ -1,5 +1,4 @@
 # WorldGuardCustomFlag
-==============
 
 WGCustomFlags plugin that denies interaction with some blocks
 
