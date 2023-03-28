@@ -16,4 +16,4 @@ This project was inspired by the work on [WGCustomFlags](https://github.com/mewi
 
 
 # Download
-**[https://github.com/LaboCraft/Minecart-Limiter/releases/tag/latest](https://github.com/LaboCraft/Minecart-Limiter/releases/tag/latest)**
+**[https://github.com/LaboCraft/WorldGuardCustomFlag/releases/tag/latest](https://github.com/LaboCraft/WorldGuardCustomFlag/releases/tag/latest)**
