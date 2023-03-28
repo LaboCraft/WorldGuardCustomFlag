@@ -2,6 +2,5 @@ name: WorldGuardCustomFlag
 version: '${project.version}'
 main: com.expectale.worldguardcustomflag.WorldGuardCustomFlag
 description: API for Bukkit plugin writers that allows you to add custom flags to WorldGuard regions.
-api-version: 1.19
 depend: [ WorldGuard ]
 loadbefore: [ WorldGuard ]
