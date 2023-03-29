@@ -6,7 +6,7 @@ WGCustomFlags plugin that denies interaction with some blocks
 * `anvil-damage` cancels damage to anvils
 * `open-door` cancels the opening of doors, traps and gates
 
-This project was inspired by the work on [WGCustomFlags](https://github.com/mewin-archived/WGCustomFlags).
+This project was inspired by the work on [WorldGuardExtraFlags](https://github.com/aromaa/WorldGuardExtraFlags).
 
 # Support
 
